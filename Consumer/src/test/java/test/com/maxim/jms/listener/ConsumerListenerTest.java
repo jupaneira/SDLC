@@ -1,4 +1,4 @@
-package test.com.maxim.jsm.listener;
+package test.com.maxim.jms.listener;
 
 import static org.easymock.EasyMock.createMock;
 import static org.easymock.EasyMock.expect;
